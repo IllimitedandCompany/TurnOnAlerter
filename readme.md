@@ -22,7 +22,7 @@ Do not misuse the alerter, insert only your personal email to receive notificati
 
 Illimited&Company is not responsible for the public usage of the software, only for its development and by no means it will be held responsible for communications to the point of spam, due to misuse by anyone.
 
-A link is attached on the email, should there be a spam like unwanted inbox being targeted, please contact <a href="mailto:illimitedenterprise@gmail.com" target="_blank">ILL&CO</a> and measures will be taken..
+A link is attached on the email(On next update) for reference, should there be a spam like unwanted inbox being targeted, please contact <a href="mailto:illimitedenterprise@gmail.com" target="_blank">ILL&CO</a> and measures will be taken..
 Same if the software stops working, a new API key may need to be generated, and if so a new version of the software will be released.
 
 Enjoy.
