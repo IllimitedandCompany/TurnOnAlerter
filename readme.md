@@ -1,3 +1,5 @@
+WINDOWS DEFENDER CURRENTLY FLAGGING/REMOVING ALERTER, an update will be sent soon enough.
+
 # Computer Turn On Alerter
 
 Software is an executable one time run forever working.
